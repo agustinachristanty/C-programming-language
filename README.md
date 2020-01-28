@@ -2,7 +2,6 @@
 Patterns using C programming Language
 
 If we enter n=7, then The result shows:
-
 1**45678910                                                                                                                    
 12**5678910                                                                                                                    
 123**678910                                                                                                                    
